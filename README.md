@@ -1,8 +1,8 @@
-# TempoTrekker-Bot-Privacy-Policy
+# D1sc-Bot-Privacy-Policy
 
-TempoTrekker Bot Privacy Policy
+D1sc Bot Privacy Policy
 
-TempoTrekker Bot is a service that values the privacy of its users. The following policy outlines what information the bot collects, how it uses and protects it:
+D1sc Bot is a service that values the privacy of its users. The following policy outlines what information the bot collects, how it uses and protects it:
 
 Collected Information:
 
